@@ -1,0 +1,21 @@
+body {
+    background-color:black;
+    text-align:center
+}
+
+h1 {
+    color: turquoise;
+    text-align:center
+}
+
+strong {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    color: aliceblue;
+    text-align:center;
+    font-size: 100%;
+}
+header {font-size:300%}
