@@ -3,10 +3,8 @@ body {
     text-align:center
 }
 
-h1 {
-    color: turquoise;
-    text-align:center
-}
+
+
 
 strong {
     color: blue;
@@ -19,3 +17,6 @@ p {
     font-size: 100%;
 }
 header {font-size:300%}
+
+header {color:silver}
+

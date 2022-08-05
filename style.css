@@ -1,5 +1,6 @@
 body {
     background-color: black;
+   
 }
 
 h1 {
@@ -13,8 +14,12 @@ h2 {
 }
 
 p {
+    border: 1px solid black;
+    padding-left:350px ;
     color: white;
     text-align: center;
+   width: 600px;
+  
 }
 
 img {
@@ -23,4 +28,11 @@ img {
     margin-right: auto;
     width: 50%;
 }
-p {}
+
+    
+a {border-color: solid black;
+padding-left:600px;
+color:blue;
+font-size:larger;
+}
+hr {}
